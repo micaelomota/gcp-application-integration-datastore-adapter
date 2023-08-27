@@ -1,0 +1,1 @@
+# gcp-application-integration-datastore-adapter
